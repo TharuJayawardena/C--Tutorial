@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\MyCodeLibrary\MyCodeLibrary\obj\Release\netcoreapp3.1\MyCodeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\MyCodeLibrary\MyCodeLibrary\obj\Release\netcoreapp3.1\MyCodeLibrary.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\MyCodeLibrary\MyCodeLibrary\obj\Release\netcoreapp3.1\MyCodeLibrary.AssemblyInfo.cs
+C:\Users\DELL\source\repos\MyCodeLibrary\MyCodeLibrary\obj\Release\netcoreapp3.1\MyCodeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MyCodeLibrary\MyCodeLibrary\bin\Release\netcoreapp3.1\MyCodeLibrary.deps.json
+C:\Users\DELL\source\repos\MyCodeLibrary\MyCodeLibrary\bin\Release\netcoreapp3.1\MyCodeLibrary.dll
+C:\Users\DELL\source\repos\MyCodeLibrary\MyCodeLibrary\bin\Release\netcoreapp3.1\MyCodeLibrary.pdb
+C:\Users\DELL\source\repos\MyCodeLibrary\MyCodeLibrary\obj\Release\netcoreapp3.1\MyCodeLibrary.dll
+C:\Users\DELL\source\repos\MyCodeLibrary\MyCodeLibrary\obj\Release\netcoreapp3.1\MyCodeLibrary.pdb

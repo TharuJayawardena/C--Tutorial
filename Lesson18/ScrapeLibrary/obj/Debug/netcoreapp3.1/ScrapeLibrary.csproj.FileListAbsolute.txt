@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\Lesson18\ScrapeLibrary\bin\Debug\netcoreapp3.1\ScrapeLibrary.deps.json
+C:\Users\DELL\source\repos\Lesson18\ScrapeLibrary\bin\Debug\netcoreapp3.1\ScrapeLibrary.dll
+C:\Users\DELL\source\repos\Lesson18\ScrapeLibrary\bin\Debug\netcoreapp3.1\ScrapeLibrary.pdb
+C:\Users\DELL\source\repos\Lesson18\ScrapeLibrary\obj\Debug\netcoreapp3.1\ScrapeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Lesson18\ScrapeLibrary\obj\Debug\netcoreapp3.1\ScrapeLibrary.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Lesson18\ScrapeLibrary\obj\Debug\netcoreapp3.1\ScrapeLibrary.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Lesson18\ScrapeLibrary\obj\Debug\netcoreapp3.1\ScrapeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Lesson18\ScrapeLibrary\obj\Debug\netcoreapp3.1\ScrapeLibrary.dll
+C:\Users\DELL\source\repos\Lesson18\ScrapeLibrary\obj\Debug\netcoreapp3.1\ScrapeLibrary.pdb
+C:\Users\DELL\source\repos\Lesson18\ScrapeLibrary\obj\Debug\netcoreapp3.1\ScrapeLibrary.csproj.AssemblyReference.cache

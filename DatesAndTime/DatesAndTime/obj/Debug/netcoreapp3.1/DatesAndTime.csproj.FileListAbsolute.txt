@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\DatesAndTime\DatesAndTime\bin\Debug\netcoreapp3.1\DatesAndTime.exe
+C:\Users\DELL\source\repos\DatesAndTime\DatesAndTime\bin\Debug\netcoreapp3.1\DatesAndTime.deps.json
+C:\Users\DELL\source\repos\DatesAndTime\DatesAndTime\bin\Debug\netcoreapp3.1\DatesAndTime.runtimeconfig.json
+C:\Users\DELL\source\repos\DatesAndTime\DatesAndTime\bin\Debug\netcoreapp3.1\DatesAndTime.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\DatesAndTime\DatesAndTime\bin\Debug\netcoreapp3.1\DatesAndTime.dll
+C:\Users\DELL\source\repos\DatesAndTime\DatesAndTime\bin\Debug\netcoreapp3.1\DatesAndTime.pdb
+C:\Users\DELL\source\repos\DatesAndTime\DatesAndTime\obj\Debug\netcoreapp3.1\DatesAndTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\DatesAndTime\DatesAndTime\obj\Debug\netcoreapp3.1\DatesAndTime.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\DatesAndTime\DatesAndTime\obj\Debug\netcoreapp3.1\DatesAndTime.AssemblyInfo.cs
+C:\Users\DELL\source\repos\DatesAndTime\DatesAndTime\obj\Debug\netcoreapp3.1\DatesAndTime.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DatesAndTime\DatesAndTime\obj\Debug\netcoreapp3.1\DatesAndTime.dll
+C:\Users\DELL\source\repos\DatesAndTime\DatesAndTime\obj\Debug\netcoreapp3.1\DatesAndTime.pdb
+C:\Users\DELL\source\repos\DatesAndTime\DatesAndTime\obj\Debug\netcoreapp3.1\DatesAndTime.genruntimeconfig.cache
+C:\Users\DELL\source\repos\DatesAndTime\DatesAndTime\obj\Debug\netcoreapp3.1\DatesAndTime.csproj.AssemblyReference.cache

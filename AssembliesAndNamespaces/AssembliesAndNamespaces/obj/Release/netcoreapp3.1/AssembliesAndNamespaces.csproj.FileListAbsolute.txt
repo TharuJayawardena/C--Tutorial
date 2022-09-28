@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Release\netcoreapp3.1\AssembliesAndNamespaces.exe
+C:\Users\DELL\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Release\netcoreapp3.1\AssembliesAndNamespaces.deps.json
+C:\Users\DELL\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Release\netcoreapp3.1\AssembliesAndNamespaces.runtimeconfig.json
+C:\Users\DELL\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Release\netcoreapp3.1\AssembliesAndNamespaces.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Release\netcoreapp3.1\AssembliesAndNamespaces.dll
+C:\Users\DELL\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Release\netcoreapp3.1\AssembliesAndNamespaces.pdb
+C:\Users\DELL\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Release\netcoreapp3.1\AssembliesAndNamespaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Release\netcoreapp3.1\AssembliesAndNamespaces.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Release\netcoreapp3.1\AssembliesAndNamespaces.AssemblyInfo.cs
+C:\Users\DELL\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Release\netcoreapp3.1\AssembliesAndNamespaces.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Release\netcoreapp3.1\AssembliesAndNamespaces.dll
+C:\Users\DELL\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Release\netcoreapp3.1\AssembliesAndNamespaces.pdb
+C:\Users\DELL\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Release\netcoreapp3.1\AssembliesAndNamespaces.genruntimeconfig.cache
+C:\Users\DELL\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Release\netcoreapp3.1\AssembliesAndNamespaces.csproj.AssemblyReference.cache

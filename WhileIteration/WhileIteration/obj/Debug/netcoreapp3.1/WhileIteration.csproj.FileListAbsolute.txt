@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\WhileIteration\WhileIteration\bin\Debug\netcoreapp3.1\WhileIteration.exe
+C:\Users\DELL\source\repos\WhileIteration\WhileIteration\bin\Debug\netcoreapp3.1\WhileIteration.deps.json
+C:\Users\DELL\source\repos\WhileIteration\WhileIteration\bin\Debug\netcoreapp3.1\WhileIteration.runtimeconfig.json
+C:\Users\DELL\source\repos\WhileIteration\WhileIteration\bin\Debug\netcoreapp3.1\WhileIteration.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\WhileIteration\WhileIteration\bin\Debug\netcoreapp3.1\WhileIteration.dll
+C:\Users\DELL\source\repos\WhileIteration\WhileIteration\bin\Debug\netcoreapp3.1\WhileIteration.pdb
+C:\Users\DELL\source\repos\WhileIteration\WhileIteration\obj\Debug\netcoreapp3.1\WhileIteration.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\WhileIteration\WhileIteration\obj\Debug\netcoreapp3.1\WhileIteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\WhileIteration\WhileIteration\obj\Debug\netcoreapp3.1\WhileIteration.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\WhileIteration\WhileIteration\obj\Debug\netcoreapp3.1\WhileIteration.AssemblyInfo.cs
+C:\Users\DELL\source\repos\WhileIteration\WhileIteration\obj\Debug\netcoreapp3.1\WhileIteration.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\WhileIteration\WhileIteration\obj\Debug\netcoreapp3.1\WhileIteration.dll
+C:\Users\DELL\source\repos\WhileIteration\WhileIteration\obj\Debug\netcoreapp3.1\WhileIteration.pdb
+C:\Users\DELL\source\repos\WhileIteration\WhileIteration\obj\Debug\netcoreapp3.1\WhileIteration.genruntimeconfig.cache

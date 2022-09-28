@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\WithStrings\WithStrings\bin\Debug\netcoreapp3.1\WithStrings.exe
+C:\Users\DELL\source\repos\WithStrings\WithStrings\bin\Debug\netcoreapp3.1\WithStrings.deps.json
+C:\Users\DELL\source\repos\WithStrings\WithStrings\bin\Debug\netcoreapp3.1\WithStrings.runtimeconfig.json
+C:\Users\DELL\source\repos\WithStrings\WithStrings\bin\Debug\netcoreapp3.1\WithStrings.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\WithStrings\WithStrings\bin\Debug\netcoreapp3.1\WithStrings.dll
+C:\Users\DELL\source\repos\WithStrings\WithStrings\bin\Debug\netcoreapp3.1\WithStrings.pdb
+C:\Users\DELL\source\repos\WithStrings\WithStrings\obj\Debug\netcoreapp3.1\WithStrings.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\WithStrings\WithStrings\obj\Debug\netcoreapp3.1\WithStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\WithStrings\WithStrings\obj\Debug\netcoreapp3.1\WithStrings.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\WithStrings\WithStrings\obj\Debug\netcoreapp3.1\WithStrings.AssemblyInfo.cs
+C:\Users\DELL\source\repos\WithStrings\WithStrings\obj\Debug\netcoreapp3.1\WithStrings.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\WithStrings\WithStrings\obj\Debug\netcoreapp3.1\WithStrings.dll
+C:\Users\DELL\source\repos\WithStrings\WithStrings\obj\Debug\netcoreapp3.1\WithStrings.pdb
+C:\Users\DELL\source\repos\WithStrings\WithStrings\obj\Debug\netcoreapp3.1\WithStrings.genruntimeconfig.cache
